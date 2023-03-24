@@ -1,0 +1,4 @@
+[07-Jun-2022 12:29:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y0t7qla4u2d4/public_html/index.php on line 581
+[07-Jun-2022 12:29:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/y0t7qla4u2d4/public_html/index.php on line 613
+[07-Jun-2022 12:29:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/y0t7qla4u2d4/public_html/index.php on line 614
+[07-Jun-2022 12:29:46 UTC] PHP Notice:  Undefined variable: output in /home/y0t7qla4u2d4/public_html/index.php on line 717

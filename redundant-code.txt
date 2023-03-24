@@ -1,0 +1,70 @@
+
+  <section id="info" style = "padding: 50px 0;background: #4F2AA6;">
+    <div class = "container" id = "waypoint" style = "position: relative;">
+      <p class = "text-center text-white" data-aos="fade-up" data-aos-delay="500" data-aos-duration = "1000"></p>
+      <h3 class = "text-center text-white fonth" data-aos="fade-up" data-aos-delay="800" data-aos-duration = "1000">HOW BETTELAPP WORKS</h3>
+      <!-- <p class = "text-center text-white" data-aos="fade-up" data-aos-delay="1000" data-aos-duration = "1000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum exercitationem ducimus reiciendis similique officiis fugit, repudiandae quo nobis vero qui quod tenetur magnam, nostrum minus ex laudantium autem harum fuga!</p> -->
+      <!-- <svg width="190" height="160" xmlns="http://www.w3.org/2000/svg">
+        <path d="M 10 80 C 40 10, 65 10, 95 80, 120 150, 190 200" stroke="black" fill="transparent"/>
+      </svg> -->
+      
+    <div class = "svg" style = "position: relative">
+    <img src = "./assets/img/car1.png" class = "car" id = "target" />
+    <svg style = "width: 100%;margin: 220px 0 150px 0" id = "demo-svg" viewBox="0 0 922 365" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1.5 23.4998C5.16667 38.9998 16 58.4998 49.5 83.9998C76.8015 104.782 127 107.5 149.5 126C172 144.5 233.676 193.097 297 159C368.5 120.5 331.5 15.0094 398 3.49985C476 -10.0001 536.5 64.4998 546 126C555.5 187.5 524.5 251 539.5 299C554.5 347 659.5 373.5 704 360C748.5 346.5 824.5 292.093 824.5 250.5C824.5 200 805.5 134.5 818 88.4998C828 51.6998 897.167 25.1665 921 9.99982" stroke="white" stroke-width="3" stroke-dasharray="6 6"/>
+      </svg>
+      </div>
+      <div class = "point point1" id = "point1">
+          <div class="numberCircle">1</div>
+            <div class = "step step1">
+                <h1>Step 1</h1>
+                <p>Register with your email and name</p>
+              </div>
+          </div>
+      <div class = "point point2" id = "point2">
+          <div class="numberCircle">2</div>
+            <div class = "step step2">
+                <h1>Step 2</h1>
+                <p>You will get notified about the launch of app and many more things related to app through mail</p>
+              </div>
+          </div>
+      <div class = "point point3" id = "point3">
+          <div class="numberCircle">3</div>
+            <div class = "step step3">
+                <h1>Step 3</h1>
+                <p>Download the app and log in with your number and setup your profile</p>
+              </div>
+          </div>
+      <div class = "point point4" id = "point4">
+          <div class="numberCircle">4</div>
+            <div class = "step step4">
+                <h1>Step 4</h1>
+                <p>Select a game and choose a stream to bet on</p>
+              </div>
+          </div>
+      <div class = "point point5" id = "point5">
+          <div class="numberCircle">5</div>
+            <div class = "step step5">
+                <h1>Step 5</h1>
+                <p>Win from various streams using your gaming knowledge and skill</p>
+              </div>
+          </div>
+      <div class = "point point6" id = "point6">
+          <div class="numberCircle">6</div>
+            <div class = "step step6">
+                <h1>Step 6</h1>
+                <p>Transfer the winning amount directly to your bank or convert them into coupons</p>
+              </div>
+          </div>
+    </div>
+    <div class = "timeline mt-5" data-aos="fade-up" data-aos-delay="500" data-aos-duration = "1000">
+      <p class = "tp">Register with your email and name</p>
+      <p class = "tp">You will get notified about the launch of app and many more things related to app through mail</p>
+      <p class = "tp">Download the app and log in with your number and setup your profile</p>
+      <p class = "tp">Select a game and choose a stream to bet on</p>
+      <p class = "tp">Win from various streams using your gaming knowledge and skill </p>
+      <p class = "tp">Transfer the winning amount directly to your bank or convert them into coupons</p>
+      
+    </div>
+
+  </section>
